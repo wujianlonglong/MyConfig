@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c20b6efa-ca9e-44a7-b191-97e8610eee65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/respo/config-client.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/respo/config-client-pro.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/respo/config-client-dev.properties" afterPath="$PROJECT_DIR$/respo/config-client.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/respo/config-client.properties" afterPath="$PROJECT_DIR$/respo/config-client.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config-client.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/respo/config-client.properties">
+      <file leaf-file-name="config-client.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/respo/config-client.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="198">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,6 +51,7 @@
         <option value="$PROJECT_DIR$/respo/config-client-dev.properties" />
         <option value="$PROJECT_DIR$/respo/config-client-pro.properties" />
         <option value="$PROJECT_DIR$/respo/config-client.properties" />
+        <option value="$PROJECT_DIR$/respo/config-client.yml" />
       </list>
     </option>
   </component>
@@ -63,8 +62,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="216" />
-    <option name="y" value="216" />
+    <option name="x" value="266" />
+    <option name="y" value="129" />
     <option name="width" value="975" />
     <option name="height" value="880" />
   </component>
@@ -165,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518490207128</updated>
-      <workItem from="1518490208749" duration="5703000" />
+      <workItem from="1518490208749" duration="5942000" />
     </task>
     <task id="LOCAL-00001" summary="新增测试配置文件config-client-dev.properties">
       <created>1518490305434</created>
@@ -244,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518507483661</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修改测试配置文件config-client-dev.properties">
+      <created>1518507878037</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1518507878037</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5703000" />
+    <option name="totallyTimeSpent" value="5942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -319,10 +325,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/respo/config-client.properties">
+    <entry file="file://$PROJECT_DIR$/respo/config-client.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
