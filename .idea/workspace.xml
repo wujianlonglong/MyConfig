@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c20b6efa-ca9e-44a7-b191-97e8610eee65" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/respo/config-client-dev.properties" afterPath="$PROJECT_DIR$/respo/config-client-dev.properties" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -155,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518490207128</updated>
-      <workItem from="1518490208749" duration="4332000" />
+      <workItem from="1518490208749" duration="4673000" />
     </task>
     <task id="LOCAL-00001" summary="新增测试配置文件config-client-dev.properties">
       <created>1518490305434</created>
@@ -206,11 +207,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518506123527</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改测试配置文件config-client-dev.properties">
+      <created>1518506498966</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518506498966</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4332000" />
+    <option name="totallyTimeSpent" value="4673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
